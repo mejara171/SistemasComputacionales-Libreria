@@ -1,0 +1,14 @@
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\obj\Debug\netcoreapp3.1\FromCToC.csproj.AssemblyReference.cache
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\obj\Debug\netcoreapp3.1\FromCToC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\obj\Debug\netcoreapp3.1\FromCToC.AssemblyInfoInputs.cache
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\obj\Debug\netcoreapp3.1\FromCToC.AssemblyInfo.cs
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\obj\Debug\netcoreapp3.1\FromCToC.csproj.CoreCompileInputs.cache
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\bin\Debug\netcoreapp3.1\FromCToC.exe
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\bin\Debug\netcoreapp3.1\FromCToC.deps.json
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\bin\Debug\netcoreapp3.1\FromCToC.runtimeconfig.json
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\bin\Debug\netcoreapp3.1\FromCToC.runtimeconfig.dev.json
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\bin\Debug\netcoreapp3.1\FromCToC.dll
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\bin\Debug\netcoreapp3.1\FromCToC.pdb
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\obj\Debug\netcoreapp3.1\FromCToC.dll
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\obj\Debug\netcoreapp3.1\FromCToC.pdb
+C:\Users\untac\OneDrive\repos\C#\UPB\FromCToC\FromCToC\obj\Debug\netcoreapp3.1\FromCToC.genruntimeconfig.cache
